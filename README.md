@@ -13,7 +13,7 @@ This script [.install.sh](.install.sh) can be used do the initial setup the tool
 You can run the script directly with the following command:
 
 ```bash
-curl -s -L https://raw.githubusercontent.com/zenatuz/dotfiles/main/.install.sh | bash
+curl -s -L https://raw.githubusercontent.com/fredcido/dotfiles/main/.install.sh | bash
 ```
 
 In the end, run the command to define ZSH as the default shell:
@@ -42,7 +42,7 @@ If you only want to get the files without installing anything new, just use YADM
 
 ```bash
 cd ~
-yadm clone git@github.com:zenatuz/dotfiles.git
+yadm clone git@github.com:fredcido/dotfiles.git
 ```
 
 ## Brewfile
